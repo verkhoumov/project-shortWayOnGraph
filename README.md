@@ -1,7 +1,12 @@
 Материалы
 ---
-* Веб-сайт: http://moep.dverkh.com/
-* Исходный код: https://github.com/verkhoumov/project_moe/tree/master/project
+* [Веб-сайт](http://moep.dverkh.com/)
+* [Исходный код](https://github.com/verkhoumov/project_moe/tree/master/project)
+
+Технологии
+---
+* PHP, jQuery, CSS3, HTML5
+* Graph Dracula — библиотека для построения графов на JS
 
 Остальное
 ---
