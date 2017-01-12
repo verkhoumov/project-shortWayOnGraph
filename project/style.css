@@ -1,0 +1,61 @@
+.container
+{
+    padding: 40px 0;
+}
+
+@media (max-width: 768px)
+{
+    .container
+    {
+        padding: 15px;
+    }
+}
+
+.panel-body ~ .panel-body
+{
+    border-top: 1px solid #ddd;
+}
+
+.no-margin-bottom,
+.help-block
+{
+    margin: 0;
+}
+
+.help-block
+{
+    font-style: italic;
+}
+
+.text-at-button-from-left
+{
+    margin-right: 10px;
+}
+
+.text-at-button-from-right
+{
+    margin-left: 10px;
+}
+
+.glyphicon-button
+{
+    font-size: 12px;
+}
+
+.button-text-with-icon
+{
+    margin-left: 8px;
+}
+
+table .label {
+	padding: .4em .6em .4em;
+	border-radius: 1em;
+	font-weight: 400;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+.footer {
+	margin-top: 30px;
+    padding-top: 40px;
+    border-top: 1px solid #ddd;
+}
