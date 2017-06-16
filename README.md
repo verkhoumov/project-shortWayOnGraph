@@ -1,7 +1,8 @@
 Материалы
 ---
-* [Веб-сайт](http://moep.dverkh.com/)
-* [Исходный код](https://github.com/verkhoumov/project_moe/tree/master/project)
+* [Веб-сайт](http://moe.verkhoumov.ru/)
+* [Исходный код](https://github.com/verkhoumov/project-shortWayOnGraph/tree/master/project)
+* [Информация о разработке](https://verkhoumov.ru/projects/short-way-on-graph)
 
 Технологии
 ---
@@ -16,4 +17,5 @@
 
 Дата разработки: декабрь 2015 года.
 
-    Вопросы и предложения можно отправить на почту: verkhoumov@yandex.ru
+---
+Вопросы и предложения можно отправить на почту: verkhoumov@yandex.ru
