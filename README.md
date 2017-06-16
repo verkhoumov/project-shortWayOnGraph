@@ -7,7 +7,7 @@
 Технологии
 ---
 * PHP, jQuery, CSS3, HTML5
-* Graph Dracula — библиотека для построения графов на JS
+* [Graph Dracula](https://github.com/strathausen/dracula) — библиотека для построения графов на JS
 
 Остальное
 ---
