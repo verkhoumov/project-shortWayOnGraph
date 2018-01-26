@@ -271,7 +271,7 @@ require_once 'graph.search.php';
 			</div>
 
 			<div class="col-md-12 footer">
-				<p class="no-margin-bottom">Автор: <a href="https://vk.com/verkhoumov" target="_blank">Верхоумов Д.О.</a><br>Версия от: 12.01.2017 20:33<br>Вы можете <a href="https://github.com/verkhoumov/project_moe" target="_blank" title="Перейти в репозиторий проекта">изучить и скачать исходный код проекта</a> на GitHub.</p>
+				<p class="no-margin-bottom">Автор: <a href="https://vk.com/verkhoumov" target="_blank">Верхоумов Д.О.</a><br>Версия от: 12.01.2017 20:33<br>Вы можете <a href="https://github.com/verkhoumov/project-shortWayOnGraph" target="_blank" title="Перейти в репозиторий проекта">изучить и скачать исходный код проекта</a> на GitHub.</p>
 			</div>
 		</div>
 	</div>
